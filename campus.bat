@@ -1,0 +1,1 @@
+python "D:\doudou\Desktop\campus_net\global_key.py"
